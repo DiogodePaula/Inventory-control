@@ -1,8 +1,8 @@
 {
-  "name": "back-end-Inventory-control",
+  "name": "back-front-end-notepad-2",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/DiogodePaula/back-end-Inventory-control.git",
+  "repository": "https://github.com/DiogodePaula/back-front-end-notepad-2.git",
   "author": "DiogodePaula <depaulatrabalhos@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -11,9 +11,9 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "pg": "^8.3.0",
+    "pg": "^8.2.2",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^6.3.3"
+    "sequelize": "^6.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
